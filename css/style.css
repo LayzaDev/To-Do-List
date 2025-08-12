@@ -16,13 +16,13 @@
 }
 
 body {
-    margin: 0;
-    height: 100vh;
-    background: linear-gradient(135deg, #8f8e8e, #2c3035);;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-family: Arial, sans-serif;
+  margin: 0;
+  height: 100vh;
+  background: linear-gradient(135deg, #8f8e8e, #2c3035);;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
 }
 
 button {
