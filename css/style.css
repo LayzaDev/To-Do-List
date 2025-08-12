@@ -16,10 +16,13 @@
 }
 
 body {
-  background-image: url("../img/fundo.webp");
-  background-position: center;
-  background-size: cover;
-  height: 100vh; 
+  margin: 0;
+  height: 100vh;
+  background: linear-gradient(135deg, #9e9d9d, #3b484e);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
 }
 
 button {
