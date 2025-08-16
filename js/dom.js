@@ -1,0 +1,10 @@
+// Selecionando os elementos HTML
+export const todoForm = document.querySelector("#todoForm");
+export const todoInput = document.querySelector("#todoInput");
+export const todoList = document.querySelector("#todoList");
+export const editForm = document.querySelector("#editForm");
+export const editInput = document.querySelector("#editInput");
+export const cancelEditBtn = document.querySelector("#cancelEditBtn");
+export const searchInput = document.querySelector("#searchInput");
+export const eraseBtn = document.querySelector("#eraseButton");
+export const filterBtn = document.querySelector("#filter-select");
